@@ -3,13 +3,19 @@
 ```text
 .
 ├── Biographies
-│  └── John Romero - Doom Guy_ Life in First Person-Harry N. Abrams (2023).epub
+│  └── Doom Guy.epub
 ├── CXX
+│  ├── Advanced C and C++\nCompiling.pdf
+│  ├── C++ Best Practices.pdf
+│  ├── C++ Initialization Story.pdf
 │  └── Modern C++ Design.pdf
 ├── Dynamics
 │  ├── todorov2014.pdf
 │  └── 机器人动力学课程笔记.pdf
 ├── gen_readme.sh
+├── Graphics
+│  ├── A Biography of the Pixel.pdf
+│  └── Learn Threejs.pdf
 ├── Learning
 │  ├── Champion-level drone racing.pdf
 │  └── lbdl.pdf
@@ -24,7 +30,7 @@
 │  └── The-Art-of-Linear-Algebra-zh-CN.pdf
 ├── OptimalControl
 │  ├── cvoc.pdf
-│  ├── Donald E. Kirk - Optimal control theory_ an introduction-Dover Publications (2004).pdf
+│  ├── Optimal control theory.pdf
 │  └── trajectorySurveyAAS.pdf
 ├── Optimization
 │  ├── 17-toussaint-Newton.pdf
@@ -34,8 +40,11 @@
 ├── OS
 │  └── atc23-jiang-yanyan.pdf
 ├── Physics
+│  ├── Effective Computation in Physics.pdf
+│  ├── Fly by Night Physics.pdf
 │  └── UniversityPhysics.pdf
 ├── Python
+│  ├── composing_programs.pdf
 │  ├── python3-note.pdf
 │  └── PythonMastery.pdf
 ├── README.md
