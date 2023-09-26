@@ -15,12 +15,13 @@
 ├── gen_readme.sh
 ├── Graphics
 │  ├── A Biography of the Pixel.pdf
-│  └── Learn Threejs.pdf
+│  └── LearnThreejs.pdf
 ├── Learning
 │  ├── Champion-level drone racing.pdf
 │  └── lbdl.pdf
 ├── Locomotion
 │  ├── ARTEMIS.pdf
+│  ├── CD_FK.pdf
 │  ├── Introduction to Humanoid Robotics.pdf
 │  ├── Momentum-Based Control Framework.pdf
 │  └── paper_flexLoco.pdf
@@ -36,6 +37,8 @@
 │  ├── 17-toussaint-Newton.pdf
 │  ├── A General-Purpose Software Framework for Dynamic Optimization.pdf
 │  ├── cacsd.2010.5612676.pdf
+│  ├── Getting Started With IPOPT.pdf
+│  ├── IPOPT.pdf
 │  └── MultipleShooting.pdf
 ├── OS
 │  └── atc23-jiang-yanyan.pdf
