@@ -6,6 +6,7 @@
 │  └── Doom Guy.epub
 ├── CXX
 │  ├── Advanced C and C++\nCompiling.pdf
+│  ├── API Design for C++.pdf
 │  ├── C++ Best Practices.pdf
 │  ├── C++ Initialization Story.pdf
 │  └── Modern C++ Design.pdf
@@ -26,6 +27,7 @@
 ├── Learning
 │  ├── Champion-level drone racing.pdf
 │  ├── lbdl.pdf
+│  ├── Learning Agile Soccer Skills.pdf
 │  ├── OC_vs_RL.pdf
 │  └── Reinforcement Learning and Optimal Control.pdf
 ├── Locomotion
@@ -58,7 +60,8 @@
 │  ├── Knitro.pdf
 │  ├── MultipleShooting.pdf
 │  ├── PSOPT.pdf
-│  └── SNOPT.pdf
+│  ├── SNOPT.pdf
+│  └── 最优化-2.pdf
 ├── OS
 │  └── atc23-jiang-yanyan.pdf
 ├── Physics
