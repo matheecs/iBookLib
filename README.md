@@ -44,6 +44,7 @@
 ├── Manipulation
 │  └── diffusion_policy_2023.pdf
 ├── Math
+│  ├── Interactive Linear Algebra.pdf
 │  └── The-Art-of-Linear-Algebra-zh-CN.pdf
 ├── OptimalControl
 │  ├── cvoc.pdf
