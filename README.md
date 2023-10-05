@@ -56,7 +56,8 @@
 │  ├── IPOPT.pdf
 │  ├── Knitro.pdf
 │  ├── MultipleShooting.pdf
-│  └── PSOPT.pdf
+│  ├── PSOPT.pdf
+│  └── SNOPT.pdf
 ├── OS
 │  └── atc23-jiang-yanyan.pdf
 ├── Physics
