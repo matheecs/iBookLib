@@ -10,7 +10,13 @@
 │  ├── C++ Initialization Story.pdf
 │  └── Modern C++ Design.pdf
 ├── Dynamics
+│  ├── 1 Inverse geometry.pdf
+│  ├── 2 trajectory optimization.pdf
+│  ├── jnrh_collision_detection.pdf
+│  ├── presentation - Constraint Dynamics.pdf
+│  ├── presentation - Pinocchio.pdf
 │  ├── RD_HS2017script.pdf
+│  ├── TalkJNRH_LegDesign.pdf
 │  ├── todorov2014.pdf
 │  └── 机器人动力学课程笔记.pdf
 ├── gen_readme.sh
