@@ -27,6 +27,7 @@
 │  ├── A Biography of the Pixel.pdf
 │  └── LearnThreejs.pdf
 ├── Learning
+│  ├── 16-745 Lecture 24.pdf
 │  ├── Champion-level drone racing.pdf
 │  ├── lbdl.pdf
 │  ├── Learning Agile Soccer Skills.pdf
