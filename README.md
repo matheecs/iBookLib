@@ -30,6 +30,9 @@
 │  ├── Champion-level drone racing.pdf
 │  ├── lbdl.pdf
 │  ├── Learning Agile Soccer Skills.pdf
+│  ├── Learning Locomotion Skills Using DeepRL.pdf
+│  ├── Learning to Walk.pdf
+│  ├── Motor Learning.pdf
 │  ├── OC_vs_RL.pdf
 │  └── Reinforcement Learning and Optimal Control.pdf
 ├── Locomotion
