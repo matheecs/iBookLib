@@ -30,6 +30,7 @@
 │  ├── Champion-level drone racing.pdf
 │  ├── lbdl.pdf
 │  ├── Learning Agile Soccer Skills.pdf
+│  ├── Learning Bipedal Walking on CPU.pdf
 │  ├── Learning Locomotion Skills Using DeepRL.pdf
 │  ├── Learning to Walk.pdf
 │  ├── Motor Learning.pdf
