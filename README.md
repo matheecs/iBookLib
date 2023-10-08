@@ -28,6 +28,7 @@
 │  └── LearnThreejs.pdf
 ├── Learning
 │  ├── 16-745 Lecture 24.pdf
+│  ├── Acquiring Motor Skills.pdf
 │  ├── Champion-level drone racing.pdf
 │  ├── lbdl.pdf
 │  ├── Learning Agile Soccer Skills.pdf
@@ -42,6 +43,7 @@
 │  ├── ARTEMIS.pdf
 │  ├── balance control and locomotion planning.pdf
 │  ├── CD_FK.pdf
+│  ├── Differentiable Optimal Control.pdf
 │  ├── Introduction to Humanoid Robotics.pdf
 │  ├── Kuindersma14.pdf
 │  ├── Momentum-Based Control Framework.pdf
