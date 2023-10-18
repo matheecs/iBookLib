@@ -43,9 +43,13 @@
 │  ├── ARTEMIS.pdf
 │  ├── balance control and locomotion planning.pdf
 │  ├── CD_FK.pdf
+│  ├── Choregraphe.pdf
 │  ├── Differentiable Optimal Control.pdf
+│  ├── Free Gait.pdf
+│  ├── HECTOR.pdf
 │  ├── Introduction to Humanoid Robotics.pdf
 │  ├── Kuindersma14.pdf
+│  ├── Mechatronic design of NAO.pdf
 │  ├── Momentum-Based Control Framework.pdf
 │  ├── notes-twan.pdf
 │  ├── Optimization-Based Control.pdf
@@ -53,6 +57,7 @@
 │  ├── Perceptive_Locomotion_through_NMPC.pdf
 │  ├── Push Recovery Control.pdf
 │  ├── Software and Control Design.pdf
+│  ├── Stability of Surface Contacts.pdf
 │  ├── WBIC.pdf
 │  └── WBLC.pdf
 ├── Manipulation
