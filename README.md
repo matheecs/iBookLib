@@ -30,6 +30,7 @@
 │  ├── 16-745 Lecture 24.pdf
 │  ├── Acquiring Motor Skills.pdf
 │  ├── Champion-level drone racing.pdf
+│  ├── how to train your robot.pdf
 │  ├── lbdl.pdf
 │  ├── Learning Agile Soccer Skills.pdf
 │  ├── Learning Bipedal Walking on CPU.pdf
@@ -37,7 +38,9 @@
 │  ├── Learning to Walk.pdf
 │  ├── Motor Learning.pdf
 │  ├── OC_vs_RL.pdf
-│  └── Reinforcement Learning and Optimal Control.pdf
+│  ├── Reinforcement Learning and Optimal Control.pdf
+│  ├── Sim-to-Real.pdf
+│  └── sot-torque-control.pdf
 ├── Locomotion
 │  ├── An Architecture for Online Affordance-based Perception and Whole-body Planning.pdf
 │  ├── ARTEMIS.pdf
