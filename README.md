@@ -84,9 +84,11 @@
 │  ├── A General-Purpose Software Framework for Dynamic Optimization.pdf
 │  ├── Getting Started With IPOPT.pdf
 │  ├── IPOPT.pdf
+│  ├── Joris Gillis.pdf
 │  ├── Knitro.pdf
 │  ├── MultipleShooting.pdf
 │  ├── NLP.pdf
+│  ├── nlp_slides.pdf
 │  ├── OSQP.pdf
 │  ├── PIQP.pdf
 │  ├── PSOPT.pdf
