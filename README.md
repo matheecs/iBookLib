@@ -9,6 +9,7 @@
 │  ├── API Design for C++.pdf
 │  ├── C++ Best Practices.pdf
 │  ├── C++ Initialization Story.pdf
+│  ├── improving_compilation_times.pdf
 │  └── Modern C++ Design.pdf
 ├── Dynamics
 │  ├── 1 Inverse geometry.pdf
@@ -44,6 +45,7 @@
 ├── Locomotion
 │  ├── An Architecture for Online Affordance-based Perception and Whole-body Planning.pdf
 │  ├── ARTEMIS.pdf
+│  ├── atlas-control.pdf
 │  ├── balance control and locomotion planning.pdf
 │  ├── CD_FK.pdf
 │  ├── Choregraphe.pdf
