@@ -83,9 +83,11 @@
 │  ├── 17-toussaint-Newton.pdf
 │  ├── A General-Purpose Software Framework for Dynamic Optimization.pdf
 │  ├── Getting Started With IPOPT.pdf
+│  ├── ipopt-thesis.pdf
 │  ├── IPOPT.pdf
 │  ├── Joris Gillis.pdf
 │  ├── Knitro.pdf
+│  ├── Lecture Notes on Numerical Optimization.pdf
 │  ├── MultipleShooting.pdf
 │  ├── NLP.pdf
 │  ├── nlp_slides.pdf
