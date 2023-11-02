@@ -7,10 +7,17 @@
 ├── CXX
 │  ├── Advanced C and C++\nCompiling.pdf
 │  ├── API Design for C++.pdf
+│  ├── C++-Templates-zh.pdf
+│  ├── C++20-The-Complete-Guide-zh.pdf
 │  ├── C++ Best Practices.pdf
 │  ├── C++ Initialization Story.pdf
 │  ├── improving_compilation_times.pdf
-│  └── Modern C++ Design.pdf
+│  ├── Modern-CMake-for-C++-zh.pdf
+│  ├── Modern C++ Design-zh.pdf
+│  ├── Modern C++ Design.pdf
+│  ├── Software-Architecture-with-C++-zh.pdf
+│  ├── Template-Metaprogramming-with-C++-zh.pdf
+│  └── The-Art-of-Writing-Efficient-Programs-zh.pdf
 ├── Dynamics
 │  ├── 1 Inverse geometry.pdf
 │  ├── 2 trajectory optimization.pdf
