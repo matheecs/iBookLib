@@ -122,6 +122,7 @@
 │  └── PythonMastery.pdf
 ├── README.md
 ├── StateEstimation
+│  ├── foot_imu_iros2023.pdf
 │  └── SLAM中的几何与学习方法.pdf
 └── TrajectoryOptimization
    ├── Contact-Implicit Trajectory Optimization.pdf
