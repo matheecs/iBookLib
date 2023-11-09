@@ -34,6 +34,7 @@
 ├── gen_readme.sh
 ├── Graphics
 │  ├── A Biography of the Pixel.pdf
+│  ├── Director.pdf
 │  └── LearnThreejs.pdf
 ├── Learning
 │  ├── 16-745 Lecture 24.pdf
