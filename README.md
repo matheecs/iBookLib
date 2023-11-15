@@ -62,6 +62,7 @@
 │  ├── Free Gait.pdf
 │  ├── HECTOR.pdf
 │  ├── Introduction to Humanoid Robotics.pdf
+│  ├── Julia for robotics.pdf
 │  ├── Kuindersma14.pdf
 │  ├── Mechatronic design of NAO.pdf
 │  ├── Momentum-Based Control Framework.pdf
@@ -82,6 +83,10 @@
 ├── Math
 │  ├── Interactive Linear Algebra.pdf
 │  └── The-Art-of-Linear-Algebra-zh-CN.pdf
+├── Motor
+│  ├── High-Output Actuation System.pdf
+│  ├── High Torque and High Speed Leg Module.pdf
+│  └── thermal control.pdf
 ├── OptimalControl
 │  ├── cvoc.pdf
 │  ├── geometric control of mechanical systems.pdf
