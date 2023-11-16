@@ -25,6 +25,7 @@
 │  ├── jnrh_collision_detection.pdf
 │  ├── presentation - Constraint Dynamics.pdf
 │  ├── presentation - Pinocchio.pdf
+│  ├── pressure field contact.pdf
 │  ├── RD_HS2017script.pdf
 │  ├── Rotational Dynamics.pdf
 │  ├── Simbody.pdf
@@ -49,6 +50,7 @@
 │  ├── Motor Learning.pdf
 │  ├── OC_vs_RL.pdf
 │  ├── Reinforcement Learning and Optimal Control.pdf
+│  ├── RLbook2020.pdf
 │  ├── Sim-to-Real.pdf
 │  └── sot-torque-control.pdf
 ├── Locomotion
