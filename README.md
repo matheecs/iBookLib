@@ -13,6 +13,7 @@
 │  ├── C++ Initialization Story.pdf
 │  ├── improving_compilation_times.pdf
 │  ├── Modern-CMake-for-C++-zh.pdf
+│  ├── modern-cmake.pdf
 │  ├── Modern C++ Design-zh.pdf
 │  ├── Modern C++ Design.pdf
 │  ├── Software-Architecture-with-C++-zh.pdf
@@ -126,6 +127,7 @@
 ├── Python
 │  ├── composing_programs.pdf
 │  ├── IPython Interactive Computing and Visualization Cookbook.pdf
+│  ├── managing-python-packages.pdf
 │  ├── python3-note.pdf
 │  └── PythonMastery.pdf
 ├── README.md
