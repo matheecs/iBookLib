@@ -53,7 +53,8 @@
 │  ├── Reinforcement Learning and Optimal Control.pdf
 │  ├── RLbook2020.pdf
 │  ├── Sim-to-Real.pdf
-│  └── sot-torque-control.pdf
+│  ├── sot-torque-control.pdf
+│  └── UnderstandingDeepLearning_24_11_23_C.pdf
 ├── Locomotion
 │  ├── An Architecture for Online Affordance-based Perception and Whole-body Planning.pdf
 │  ├── ARTEMIS.pdf
