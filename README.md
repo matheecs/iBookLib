@@ -24,6 +24,7 @@
 │  ├── 2 trajectory optimization.pdf
 │  ├── 19-sii-pinocchio.pdf
 │  ├── jnrh_collision_detection.pdf
+│  ├── Kinematic Loops.pdf
 │  ├── presentation - Constraint Dynamics.pdf
 │  ├── presentation - Pinocchio.pdf
 │  ├── pressure field contact.pdf
