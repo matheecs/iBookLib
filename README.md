@@ -51,6 +51,7 @@
 │  ├── Learning to Walk.pdf
 │  ├── Motor Learning.pdf
 │  ├── OC_vs_RL.pdf
+│  ├── On_Bringing_Robots_Home.pdf
 │  ├── Reinforcement Learning and Optimal Control.pdf
 │  ├── RLbook2020.pdf
 │  ├── Sim-to-Real.pdf
@@ -61,6 +62,8 @@
 │  ├── ARTEMIS.pdf
 │  ├── atlas-control.pdf
 │  ├── balance control and locomotion planning.pdf
+│  ├── Bipedal Humanoid Hardware Design: A Technology Review.pdf
+│  ├── Capture Steps: Robust Walking for Humanoid Robots.pdf
 │  ├── CD_FK.pdf
 │  ├── Choregraphe.pdf
 │  ├── Differentiable Optimal Control.pdf
@@ -71,6 +74,7 @@
 │  ├── Kuindersma14.pdf
 │  ├── Mechatronic design of NAO.pdf
 │  ├── Momentum-Based Control Framework.pdf
+│  ├── NimbRo-OP2X.pdf
 │  ├── notes-twan.pdf
 │  ├── Optimization-Based Control.pdf
 │  ├── paper_flexLoco.pdf
@@ -78,6 +82,7 @@
 │  ├── Push Recovery Control.pdf
 │  ├── Software and Control Design.pdf
 │  ├── Stability of Surface Contacts.pdf
+│  ├── Tello Leg.pdf
 │  ├── WBIC.pdf
 │  └── WBLC.pdf
 ├── Manipulation
