@@ -25,6 +25,8 @@
 │  ├── 19-sii-pinocchio.pdf
 │  ├── jnrh_collision_detection.pdf
 │  ├── Kinematic Loops.pdf
+│  ├── Modern Robotics.pdf
+│  ├── nonholonomy in the dynamics.pdf
 │  ├── presentation - Constraint Dynamics.pdf
 │  ├── presentation - Pinocchio.pdf
 │  ├── pressure field contact.pdf
