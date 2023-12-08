@@ -9,6 +9,7 @@
 │  ├── API Design for C++.pdf
 │  ├── C++-Templates-zh.pdf
 │  ├── C++20-The-Complete-Guide-zh.pdf
+│  ├── C++23-Standard-Library.pdf
 │  ├── C++ Best Practices.pdf
 │  ├── C++ Initialization Story.pdf
 │  ├── improving_compilation_times.pdf
@@ -23,8 +24,11 @@
 │  ├── 1 Inverse geometry.pdf
 │  ├── 2 trajectory optimization.pdf
 │  ├── 19-sii-pinocchio.pdf
+│  ├── A Unified View of the Equations of Motion.pdf
+│  ├── holonomy-and-nonholonomy-in-the-dynamics-of-articulated-motion.pdf
 │  ├── jnrh_collision_detection.pdf
 │  ├── Kinematic Loops.pdf
+│  ├── MODELLING AND CONTROL OF NONHOLONOMIC MECHANICAL SYSTEMS.pdf
 │  ├── Modern Robotics.pdf
 │  ├── nonholonomy in the dynamics.pdf
 │  ├── presentation - Constraint Dynamics.pdf
@@ -146,7 +150,8 @@
 │  └── SLAM中的几何与学习方法.pdf
 ├── TrajectoryOptimization
 │  ├── Contact-Implicit Trajectory Optimization.pdf
-│  └── Non-Linear Trajectory Optimization Atlas.pdf
+│  ├── Non-Linear Trajectory Optimization Atlas.pdf
+│  └── OpTaS.pdf
 └── Umwelt
    ├── A Foray Into the Worlds of Animals and Humans.pdf
    ├── An Immense World.epub
