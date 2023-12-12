@@ -39,8 +39,7 @@
 │  ├── Simbody.pdf
 │  ├── TalkJNRH_LegDesign.pdf
 │  ├── todorov2014.pdf
-│  ├── 机器人动力学课程笔记.pdf
-│  └── 机器人操作的数学导论.pdf
+│  └── 机器人动力学课程笔记.pdf
 ├── gen_readme.sh
 ├── Graphics
 │  ├── A Biography of the Pixel.pdf
@@ -97,7 +96,8 @@
 │  ├── Bubble_Gripper_Build_Instructions_v1.0.pdf
 │  ├── Contact-Trajectory Optimization.pdf
 │  ├── diffusion_policy_2023.pdf
-│  └── High-speed Multifingered Hand System.pdf
+│  ├── High-speed Multifingered Hand System.pdf
+│  └── 机器人操作的数学导论.pdf
 ├── Math
 │  ├── Interactive Linear Algebra.pdf
 │  └── The-Art-of-Linear-Algebra-zh-CN.pdf
@@ -106,9 +106,12 @@
 │  ├── High Torque and High Speed Leg Module.pdf
 │  └── thermal control.pdf
 ├── OptimalControl
+│  ├── Contact-Implicit Trajectory Optimization.pdf
 │  ├── cvoc.pdf
 │  ├── geometric control of mechanical systems.pdf
 │  ├── MultipleShooting.pdf
+│  ├── Non-Linear Trajectory Optimization Atlas.pdf
+│  ├── OpTaS.pdf
 │  ├── Optimal control theory.pdf
 │  ├── Soft Landing Optimal Control.pdf
 │  └── trajectorySurveyAAS.pdf
@@ -150,13 +153,10 @@
 ├── StateEstimation
 │  ├── foot_imu_iros2023.pdf
 │  └── SLAM中的几何与学习方法.pdf
-├── TrajectoryOptimization
-│  ├── Contact-Implicit Trajectory Optimization.pdf
-│  ├── Non-Linear Trajectory Optimization Atlas.pdf
-│  └── OpTaS.pdf
 └── Umwelt
    ├── A Foray Into the Worlds of Animals and Humans.pdf
    ├── An Immense World.epub
+   ├── Behavior-Based Robotics.pdf
    ├── Does a robot have an Umwelt.pdf
    └── What Is It Like to Be a Bat.pdf
 ```
