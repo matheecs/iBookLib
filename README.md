@@ -93,6 +93,7 @@
 │  └── WBLC.pdf
 ├── Manipulation
 │  ├── [2020] [MIT Master] Dynamic Primitives Facilitate Manipulating a Whip.pdf
+│  ├── A Mathematical Introduction to Robotic Manipulation.pdf
 │  ├── Bubble_Gripper_Build_Instructions_v1.0.pdf
 │  ├── Contact-Trajectory Optimization.pdf
 │  ├── diffusion_policy_2023.pdf
