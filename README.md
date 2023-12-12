@@ -39,7 +39,8 @@
 │  ├── Simbody.pdf
 │  ├── TalkJNRH_LegDesign.pdf
 │  ├── todorov2014.pdf
-│  └── 机器人动力学课程笔记.pdf
+│  ├── 机器人动力学课程笔记.pdf
+│  └── 机器人操作的数学导论.pdf
 ├── gen_readme.sh
 ├── Graphics
 │  ├── A Biography of the Pixel.pdf
@@ -140,6 +141,7 @@
 │  └── UniversityPhysics.pdf
 ├── Python
 │  ├── composing_programs.pdf
+│  ├── High Performance Python.pdf
 │  ├── IPython Interactive Computing and Visualization Cookbook.pdf
 │  ├── managing-python-packages.pdf
 │  ├── python3-note.pdf
