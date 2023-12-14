@@ -148,6 +148,8 @@
 │  ├── High Performance Python.pdf
 │  ├── IPython Interactive Computing and Visualization Cookbook.pdf
 │  ├── managing-python-packages.pdf
+│  ├── mementopython3-english.pdf
+│  ├── mementopython3-zh_cn.pdf
 │  ├── python3-note.pdf
 │  └── PythonMastery.pdf
 ├── README.md
