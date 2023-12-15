@@ -130,6 +130,7 @@
 │  ├── MA57.pdf
 │  ├── MultipleShooting.pdf
 │  ├── MUMPS-Talks.pdf
+│  ├── MUMPS.pdf
 │  ├── NLP.pdf
 │  ├── nlp_slides.pdf
 │  ├── On the effects of scaling on the performance of Ipopt.pdf
