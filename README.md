@@ -119,16 +119,22 @@
 ├── Optimization
 │  ├── 17-toussaint-Newton.pdf
 │  ├── A General-Purpose Software Framework for Dynamic Optimization.pdf
+│  ├── A survey of HPC for NLP.pdf
 │  ├── Getting Started With IPOPT.pdf
 │  ├── ipopt-thesis.pdf
 │  ├── IPOPT.pdf
 │  ├── Joris Gillis.pdf
 │  ├── Knitro.pdf
 │  ├── Lecture Notes on Numerical Optimization.pdf
+│  ├── Linear Solver Parallelism.pdf
+│  ├── MA57.pdf
 │  ├── MultipleShooting.pdf
+│  ├── MUMPS-Talks.pdf
 │  ├── NLP.pdf
 │  ├── nlp_slides.pdf
+│  ├── On the effects of scaling on the performance of Ipopt.pdf
 │  ├── OSQP.pdf
+│  ├── Overview of Optimization Software.pdf
 │  ├── PIQP.pdf
 │  ├── PSOPT.pdf
 │  ├── SNOPT.pdf
