@@ -145,6 +145,7 @@
 │  ├── On the effects of scaling on the performance of Ipopt.pdf
 │  ├── OSQP.pdf
 │  ├── Overview of Optimization Software.pdf
+│  ├── PDFO.pdf
 │  ├── PIQP.pdf
 │  ├── SNOPT.pdf
 │  └── 最优化-2.pdf
