@@ -50,6 +50,7 @@
 │  ├── Acquiring Motor Skills.pdf
 │  ├── Champion-level drone racing.pdf
 │  ├── how to train your robot.pdf
+│  ├── Isaac Gym.pdf
 │  ├── lbdl.pdf
 │  ├── Learning Agile Soccer Skills.pdf
 │  ├── Learning Bipedal Walking on CPU.pdf
@@ -73,6 +74,7 @@
 │  ├── CD_FK.pdf
 │  ├── Choregraphe.pdf
 │  ├── Differentiable Optimal Control.pdf
+│  ├── Dynamic Loco-manipulation on HECTOR.pdf
 │  ├── Free Gait.pdf
 │  ├── HECTOR.pdf
 │  ├── Introduction to Humanoid Robotics.pdf
@@ -112,6 +114,7 @@
 │  ├── cvoc.pdf
 │  ├── geometric control of mechanical systems.pdf
 │  ├── GPOPS-Ⅱ.pdf
+│  ├── Inverse Dynamics Trajectory Optimization.pdf
 │  ├── Joris Gillis.pdf
 │  ├── MultipleShooting.pdf
 │  ├── nlp_slides.pdf
