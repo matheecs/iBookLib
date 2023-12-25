@@ -128,6 +128,7 @@
 │  ├── 17-toussaint-Newton.pdf
 │  ├── A survey of HPC for NLP.pdf
 │  ├── convex_optimization.pdf
+│  ├── End-to-End Learning to Warm-Start.pdf
 │  ├── Getting Started With IPOPT.pdf
 │  ├── ipopt-thesis.pdf
 │  ├── IPOPT.pdf
@@ -138,6 +139,7 @@
 │  ├── Linear Solver Parallelism.pdf
 │  ├── MA57.pdf
 │  ├── Matrix Computations.pdf
+│  ├── Mean Robust Optimization.pdf
 │  ├── MUMPS-Talks.pdf
 │  ├── MUMPS.pdf
 │  ├── NLP.pdf
@@ -148,7 +150,8 @@
 │  ├── PDFO.pdf
 │  ├── PIQP.pdf
 │  ├── SNOPT.pdf
-│  └── 最优化-2.pdf
+│  ├── 最优化-2.pdf
+│  └── 瞎子爬山与最优化方法.pdf
 ├── OS
 │  ├── atc23-jiang-yanyan.pdf
 │  └── Crafting Interpreters.pdf
