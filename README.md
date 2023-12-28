@@ -4,6 +4,11 @@
 .
 ├── Biographies
 │  └── Doom Guy.epub
+├── CUDA
+│  ├── CUDA_programming.pdf
+│  ├── CUDA Handbook.pdf
+│  ├── Learn CUDA Programming.pdf
+│  └── Programming in Parallel with CUDA.pdf
 ├── CXX
 │  ├── Advanced C and C++ Compiling.pdf
 │  ├── API Design for C++.pdf
@@ -24,6 +29,7 @@
 │  ├── 1 Inverse geometry.pdf
 │  ├── 2 trajectory optimization.pdf
 │  ├── 19-sii-pinocchio.pdf
+│  ├── Analytically Differentiable Articulated Rigid Body Dynamics.pdf
 │  ├── A Unified View of the Equations of Motion.pdf
 │  ├── holonomy-and-nonholonomy-in-the-dynamics-of-articulated-motion.pdf
 │  ├── jnrh_collision_detection.pdf
@@ -91,6 +97,7 @@
 │  ├── Software and Control Design.pdf
 │  ├── Stability of Surface Contacts.pdf
 │  ├── Tello Leg.pdf
+│  ├── US11465281.pdf
 │  ├── WBIC.pdf
 │  └── WBLC.pdf
 ├── Manipulation
