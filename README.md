@@ -110,6 +110,8 @@
 │  └── 机器人操作的数学导论.pdf
 ├── Math
 │  ├── Interactive Linear Algebra.pdf
+│  ├── Linear Algebra Done Right 4th.pdf
+│  ├── Measure, Integration & Real Analysis.pdf
 │  └── The-Art-of-Linear-Algebra-zh-CN.pdf
 ├── Motor
 │  ├── High-Output Actuation System.pdf
