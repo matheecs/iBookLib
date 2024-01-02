@@ -65,6 +65,7 @@
 │  ├── Motor Learning.pdf
 │  ├── OC_vs_RL.pdf
 │  ├── On_Bringing_Robots_Home.pdf
+│  ├── OPT-Mimic.pdf
 │  ├── Reinforcement Learning and Optimal Control.pdf
 │  ├── RLbook2020.pdf
 │  ├── Sim-to-Real.pdf
