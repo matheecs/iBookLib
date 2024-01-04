@@ -121,6 +121,7 @@
 ├── OptimalControl
 │  ├── A General-Purpose Software Framework for Dynamic Optimization.pdf
 │  ├── Contact-Implicit Trajectory Optimization.pdf
+│  ├── cuRobo.pdf
 │  ├── cvoc.pdf
 │  ├── geometric control of mechanical systems.pdf
 │  ├── GPOPS-Ⅱ.pdf
@@ -138,6 +139,7 @@
 │  ├── 17-toussaint-Newton.pdf
 │  ├── A survey of HPC for NLP.pdf
 │  ├── convex_optimization.pdf
+│  ├── cuPDLP.jl.pdf
 │  ├── End-to-End Learning to Warm-Start.pdf
 │  ├── Getting Started With IPOPT.pdf
 │  ├── ipopt-thesis.pdf
