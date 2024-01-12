@@ -5,9 +5,16 @@
 ├── Biographies
 │  └── Doom Guy.epub
 ├── CUDA
+│  ├── Automatic Sphere Approximation.pdf
 │  ├── CUDA_programming.pdf
 │  ├── CUDA Handbook.pdf
+│  ├── Game Physics Pearls.pdf
+│  ├── GPU精粹1.pdf
+│  ├── GPU精粹2.pdf
+│  ├── GPU精粹3.pdf
 │  ├── Learn CUDA Programming.pdf
+│  ├── NVIDIA_CUDA_Programming_Guide_1.1_chs.pdf
+│  ├── Professional CUDA C Programming.pdf
 │  └── Programming in Parallel with CUDA.pdf
 ├── CXX
 │  ├── Advanced C and C++ Compiling.pdf
@@ -42,6 +49,7 @@
 │  ├── pressure field contact.pdf
 │  ├── RD_HS2017script.pdf
 │  ├── Rotational Dynamics.pdf
+│  ├── Series-Parallel Hybrid.pdf
 │  ├── Simbody.pdf
 │  ├── TalkJNRH_LegDesign.pdf
 │  ├── todorov2014.pdf
