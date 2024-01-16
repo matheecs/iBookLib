@@ -49,11 +49,12 @@
 │  ├── pressure field contact.pdf
 │  ├── RD_HS2017script.pdf
 │  ├── Rotational Dynamics.pdf
-│  ├── Series-Parallel Hybrid.pdf
 │  ├── Simbody.pdf
 │  ├── TalkJNRH_LegDesign.pdf
 │  ├── todorov2014.pdf
 │  └── 机器人动力学课程笔记.pdf
+├── EE
+│  └── Open Circuits.pdf
 ├── gen_readme.sh
 ├── Graphics
 │  ├── A Biography of the Pixel.pdf
@@ -78,7 +79,8 @@
 │  ├── RLbook2020.pdf
 │  ├── Sim-to-Real.pdf
 │  ├── sot-torque-control.pdf
-│  └── UnderstandingDeepLearning_24_11_23_C.pdf
+│  ├── UnderstandingDeepLearning_24_11_23_C.pdf
+│  └── What Is ChatGPT Doing.pdf
 ├── Locomotion
 │  ├── An Architecture for Online Affordance-based Perception and Whole-body Planning.pdf
 │  ├── ARTEMIS.pdf
@@ -103,12 +105,14 @@
 │  ├── paper_flexLoco.pdf
 │  ├── Perceptive_Locomotion_through_NMPC.pdf
 │  ├── Push Recovery Control.pdf
+│  ├── Series-Parallel Hybrid.pdf
 │  ├── Software and Control Design.pdf
 │  ├── Stability of Surface Contacts.pdf
 │  ├── Tello Leg.pdf
 │  ├── US11465281.pdf
 │  ├── WBIC.pdf
-│  └── WBLC.pdf
+│  ├── WBLC.pdf
+│  └── Whole-Body Control of Series-Parallel Hybrid Robots.pdf
 ├── Manipulation
 │  ├── [2020] [MIT Master] Dynamic Primitives Facilitate Manipulating a Whip.pdf
 │  ├── A Mathematical Introduction to Robotic Manipulation.pdf
