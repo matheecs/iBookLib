@@ -8,7 +8,9 @@
 │  ├── An Introduction to Physics-based Animation.pdf
 │  ├── Articulated Rigid Body.pdf
 │  ├── Contact and Constraints.pdf
-│  ├── GDC2013_ErwinCoumans_GPU_rigid_body_simulation.pdf
+│  ├── ErinCatto_SoftConstraints_GDC2011.pdf
+│  ├── ErinCatto_UnderstandingConstraints_GDC2014.pdf
+│  ├── ErwinCoumans_GPU_rigid_body_simulation_GDC2013.pdf
 │  ├── Implicit Time-Stepping Scheme.pdf
 │  ├── LCP.pdf
 │  ├── Model of Contact Normal Force.pdf
@@ -73,6 +75,7 @@
 │  ├── 16-745 Lecture 24.pdf
 │  ├── Acquiring Motor Skills.pdf
 │  ├── Champion-level drone racing.pdf
+│  ├── Deep Tracking Control.pdf
 │  ├── how to train your robot.pdf
 │  ├── Isaac Gym.pdf
 │  ├── lbdl.pdf
