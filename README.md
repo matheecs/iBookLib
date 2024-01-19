@@ -4,6 +4,15 @@
 .
 ├── Biographies
 │  └── Doom Guy.epub
+├── Contact
+│  ├── An Introduction to Physics-based Animation.pdf
+│  ├── Articulated Rigid Body.pdf
+│  ├── Contact and Constraints.pdf
+│  ├── GDC2013_ErwinCoumans_GPU_rigid_body_simulation.pdf
+│  ├── Implicit Time-Stepping Scheme.pdf
+│  ├── LCP.pdf
+│  ├── Model of Contact Normal Force.pdf
+│  └── SIGGRAPH22_friction_contact_notes.pdf
 ├── CUDA
 │  ├── Automatic Sphere Approximation.pdf
 │  ├── CUDA_programming.pdf
