@@ -122,6 +122,7 @@
 │  ├── Stability of Surface Contacts.pdf
 │  ├── Tello Leg.pdf
 │  ├── US11465281.pdf
+│  ├── vduindamPhDthesis.pdf
 │  ├── WBIC.pdf
 │  ├── WBLC.pdf
 │  └── Whole-Body Control of Series-Parallel Hybrid Robots.pdf
@@ -151,6 +152,7 @@
 │  ├── GPOPS-Ⅱ.pdf
 │  ├── Inverse Dynamics Trajectory Optimization.pdf
 │  ├── Joris Gillis.pdf
+│  ├── MPC-book-2nd.pdf
 │  ├── MultipleShooting.pdf
 │  ├── nlp_slides.pdf
 │  ├── Non-Linear Trajectory Optimization Atlas.pdf
