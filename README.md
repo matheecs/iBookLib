@@ -14,7 +14,9 @@
 │  ├── Implicit Time-Stepping Scheme.pdf
 │  ├── LCP.pdf
 │  ├── Model of Contact Normal Force.pdf
-│  └── SIGGRAPH22_friction_contact_notes.pdf
+│  ├── Pressure Field Contact.pdf
+│  ├── SIGGRAPH22_friction_contact_notes.pdf
+│  └── Velocity Level Approximation of Pressure Field Contact.pdf
 ├── CUDA
 │  ├── Automatic Sphere Approximation.pdf
 │  ├── CUDA_programming.pdf
@@ -35,6 +37,7 @@
 │  ├── C++23-Standard-Library.pdf
 │  ├── C++ Best Practices.pdf
 │  ├── C++ Initialization Story.pdf
+│  ├── C++ Today.pdf
 │  ├── improving_compilation_times.pdf
 │  ├── Modern-CMake-for-C++-zh.pdf
 │  ├── modern-cmake.pdf
@@ -71,6 +74,7 @@
 │  ├── A Biography of the Pixel.pdf
 │  ├── Director.pdf
 │  └── LearnThreejs.pdf
+├── GUI
 ├── Learning
 │  ├── 16-745 Lecture 24.pdf
 │  ├── Acquiring Motor Skills.pdf
@@ -160,7 +164,8 @@
 │  ├── Optimal control theory.pdf
 │  ├── PSOPT.pdf
 │  ├── Soft Landing Optimal Control.pdf
-│  └── trajectorySurveyAAS.pdf
+│  ├── trajectorySurveyAAS.pdf
+│  └── Ungar.pdf
 ├── Optimization
 │  ├── 17-toussaint-Newton.pdf
 │  ├── A survey of HPC for NLP.pdf
@@ -187,6 +192,7 @@
 │  ├── Overview of Optimization Software.pdf
 │  ├── PDFO.pdf
 │  ├── PIQP.pdf
+│  ├── Recent Advances in the OSQP.pdf
 │  ├── SNOPT.pdf
 │  ├── 最优化-2.pdf
 │  └── 瞎子爬山与最优化方法.pdf
