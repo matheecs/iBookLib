@@ -8,6 +8,7 @@
 │  ├── An Introduction to Physics-based Animation.pdf
 │  ├── Articulated Rigid Body.pdf
 │  ├── Contact and Constraints.pdf
+│  ├── Convex Quasistatic.pdf
 │  ├── ErinCatto_SoftConstraints_GDC2011.pdf
 │  ├── ErinCatto_UnderstandingConstraints_GDC2014.pdf
 │  ├── ErwinCoumans_GPU_rigid_body_simulation_GDC2013.pdf
@@ -58,6 +59,7 @@
 │  ├── MODELLING AND CONTROL OF NONHOLONOMIC MECHANICAL SYSTEMS.pdf
 │  ├── Modern Robotics.pdf
 │  ├── nonholonomy in the dynamics.pdf
+│  ├── Pinocchio's frame for spatial velocities [v=MLFtHLTprE4].mp4
 │  ├── presentation - Constraint Dynamics.pdf
 │  ├── presentation - Pinocchio.pdf
 │  ├── pressure field contact.pdf
@@ -92,6 +94,7 @@
 │  ├── On_Bringing_Robots_Home.pdf
 │  ├── OPT-Mimic.pdf
 │  ├── Reinforcement Learning and Optimal Control.pdf
+│  ├── RL Bipedal Jumping Control.pdf
 │  ├── RLbook2020.pdf
 │  ├── Sim-to-Real.pdf
 │  ├── sot-torque-control.pdf
@@ -106,9 +109,11 @@
 │  ├── Capture Steps: Robust Walking for Humanoid Robots.pdf
 │  ├── CD_FK.pdf
 │  ├── Choregraphe.pdf
+│  ├── Collaborative Loco-Manipulation.pdf
 │  ├── Differentiable Optimal Control.pdf
 │  ├── Dynamic Loco-manipulation on HECTOR.pdf
 │  ├── Free Gait.pdf
+│  ├── HardwareRPC.pdf
 │  ├── HECTOR.pdf
 │  ├── Introduction to Humanoid Robotics.pdf
 │  ├── Julia for robotics.pdf
@@ -162,6 +167,7 @@
 │  ├── Non-Linear Trajectory Optimization Atlas.pdf
 │  ├── OpTaS.pdf
 │  ├── Optimal control theory.pdf
+│  ├── pseudospectral.pdf
 │  ├── PSOPT.pdf
 │  ├── Soft Landing Optimal Control.pdf
 │  ├── trajectorySurveyAAS.pdf
