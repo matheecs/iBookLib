@@ -74,9 +74,11 @@
 │  ├── Modern Robotics.pdf
 │  ├── nonholonomy in the dynamics.pdf
 │  ├── Pinocchio's frame for spatial velocities [v=MLFtHLTprE4].mp4
+│  ├── pinocchio_cheat_sheet.pdf
 │  ├── presentation - Constraint Dynamics.pdf
 │  ├── presentation - Pinocchio.pdf
 │  ├── pressure field contact.pdf
+│  ├── rbda.pdf
 │  ├── RD_HS2017script.pdf
 │  ├── Rotational Dynamics.pdf
 │  ├── Simbody.pdf
@@ -179,7 +181,7 @@
 │  ├── High-Output Actuation System.pdf
 │  ├── High Torque and High Speed Leg Module.pdf
 │  └── thermal control.pdf
-├── Numerical
+├── Numerics
 │  ├── [B] Evaluating Derivatives.pdf
 │  ├── [B] Matrix Computations.pdf
 │  ├── Matrix Analysis and Applied Linear Algebra.pdf
