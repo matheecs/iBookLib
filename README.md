@@ -184,7 +184,12 @@
 ├── Numerics
 │  ├── [B] Evaluating Derivatives.pdf
 │  ├── [B] Matrix Computations.pdf
+│  ├── Approximation Theory and Approximation Practice (2013).pdf
+│  ├── Chebfun.pdf
+│  ├── Chebfun_NLP.pdf
+│  ├── Exploring ODEs.pdf
 │  ├── Matrix Analysis and Applied Linear Algebra.pdf
+│  ├── Numerical Linear Algebra.pdf
 │  ├── Numerical recipes the art of scientific computing.pdf
 │  └── Templates for the Solution of Linear Systems.pdf
 ├── OptimalControl
