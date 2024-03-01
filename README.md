@@ -14,6 +14,7 @@
 │  ├── Articulated Rigid Body.pdf
 │  ├── Contact and Constraints.pdf
 │  ├── Convex Quasistatic.pdf
+│  ├── Elandt_cornellgrad.pdf
 │  ├── ErinCatto_SoftConstraints_GDC2011.pdf
 │  ├── ErinCatto_UnderstandingConstraints_GDC2014.pdf
 │  ├── ErwinCoumans_GPU_rigid_body_simulation_GDC2013.pdf
