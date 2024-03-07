@@ -18,6 +18,7 @@
 │  ├── ErinCatto_SoftConstraints_GDC2011.pdf
 │  ├── ErinCatto_UnderstandingConstraints_GDC2014.pdf
 │  ├── ErwinCoumans_GPU_rigid_body_simulation_GDC2013.pdf
+│  ├── Fluid Engine Development.pdf
 │  ├── Implicit Time-Stepping Scheme.pdf
 │  ├── LCP.pdf
 │  ├── Minchen Li dissertation.pdf
@@ -30,9 +31,6 @@
 │  ├── CUDA_programming.pdf
 │  ├── CUDA Handbook.pdf
 │  ├── Game Physics Pearls.pdf
-│  ├── GPU精粹1.pdf
-│  ├── GPU精粹2.pdf
-│  ├── GPU精粹3.pdf
 │  ├── Learn CUDA Programming.pdf
 │  ├── NVIDIA_CUDA_Programming_Guide_1.1_chs.pdf
 │  ├── Professional CUDA C Programming.pdf
@@ -81,6 +79,7 @@
 │  ├── pressure field contact.pdf
 │  ├── rbda.pdf
 │  ├── RD_HS2017script.pdf
+│  ├── Robot and Multibody Dynamics.pdf
 │  ├── Rotational Dynamics.pdf
 │  ├── Simbody.pdf
 │  ├── TalkJNRH_LegDesign.pdf
@@ -185,12 +184,15 @@
 ├── Numerics
 │  ├── [B] Evaluating Derivatives.pdf
 │  ├── [B] Matrix Computations.pdf
+│  ├── AppliedMathematics.pdf
 │  ├── Approximation Theory and Approximation Practice (2013).pdf
 │  ├── Chebfun.pdf
 │  ├── Chebfun_NLP.pdf
 │  ├── Exploring ODEs.pdf
 │  ├── Matrix Analysis and Applied Linear Algebra.pdf
+│  ├── Numerical Algorithms.pdf
 │  ├── Numerical Linear Algebra.pdf
+│  ├── Numerical methods that work.djvu
 │  ├── Numerical recipes the art of scientific computing.pdf
 │  └── Templates for the Solution of Linear Systems.pdf
 ├── OptimalControl
@@ -265,6 +267,7 @@
 │  ├── abi386-4.pdf
 │  ├── atc23-jiang-yanyan.pdf
 │  ├── Crafting Interpreters.pdf
+│  ├── linkers_and_loaders.pdf
 │  └── ROSCon 2017 Determinism in ROS.pdf
 ├── Physics
 │  ├── Bridging two insect flight modes.pdf
