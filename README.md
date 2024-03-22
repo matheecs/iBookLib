@@ -16,6 +16,7 @@
 │  ├── Convex Quasistatic.pdf
 │  ├── drake
 │  │  ├── Deformable.pdf
+│  │  ├── MPM.pdf
 │  │  ├── Sap.pdf
 │  │  ├── Similar_Lagged.pdf
 │  │  └── Tamsi.pdf
@@ -68,6 +69,7 @@
 │  ├── 19-sii-pinocchio.pdf
 │  ├── Analytically Differentiable Articulated Rigid Body Dynamics.pdf
 │  ├── A Unified View of the Equations of Motion.pdf
+│  ├── Foundations of physically based modeling and animation.pdf
 │  ├── Geometric Fundamentals of Robotics.pdf
 │  ├── holonomy-and-nonholonomy-in-the-dynamics-of-articulated-motion.pdf
 │  ├── jnrh_collision_detection.pdf
