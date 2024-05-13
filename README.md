@@ -3,9 +3,12 @@
 ```text
 .
 ├── Animation
+│  ├── 3D Animation Essentials.pdf
 │  ├── CharacterAnimation.pdf
 │  ├── Choregraphe.pdf
-│  └── Motion Interpolation Methods.pdf
+│  ├── Computer Animation.pdf
+│  ├── Motion Interpolation Methods.pdf
+│  └── Principles.pdf
 ├── Biographies
 │  ├── Doom Guy.epub
 │  └── Masters of Doom.pdf
