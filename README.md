@@ -157,6 +157,7 @@
 │  ├── notes-twan.pdf
 │  ├── Optimization-Based Control.pdf
 │  ├── paper_flexLoco.pdf
+│  ├── Passivity-based whole-body balancing.pdf
 │  ├── Perceptive_Locomotion_through_NMPC.pdf
 │  ├── Push Recovery Control.pdf
 │  ├── Series-Parallel Hybrid.pdf
@@ -185,6 +186,8 @@
 │  ├── Measure, Integration & Real Analysis.pdf
 │  └── The-Art-of-Linear-Algebra-zh-CN.pdf
 ├── MotionPlanning
+│  ├── Dynamic Robot Manipulation_v1.pdf
+│  ├── Dynamic Robot Manipulation_v2.pdf
 │  ├── Motion Planning the Essentials.pdf
 │  └── 几何方法.pdf
 ├── Motor
