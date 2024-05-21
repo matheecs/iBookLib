@@ -92,6 +92,7 @@
 │  ├── Robot and Multibody Dynamics.pdf
 │  ├── Rotational Dynamics.pdf
 │  ├── Simbody.pdf
+│  ├── Structure and Interpretation of Classical Mechanics.pdf
 │  ├── TalkJNRH_LegDesign.pdf
 │  ├── todorov2014.pdf
 │  └── 机器人动力学课程笔记.pdf
@@ -282,6 +283,7 @@
 │  ├── abi386-4.pdf
 │  ├── atc23-jiang-yanyan.pdf
 │  ├── Crafting Interpreters.pdf
+│  ├── How To Write Shared Libraries.pdf
 │  ├── linkers_and_loaders.pdf
 │  └── ROSCon 2017 Determinism in ROS.pdf
 ├── Physics
