@@ -146,6 +146,7 @@
 │  ├── Free Gait.pdf
 │  ├── HardwareRPC.pdf
 │  ├── HECTOR.pdf
+│  ├── Interactive_Design_of_Stylized_Walking_Gaits_for_Robotic_Characters-4.pdf
 │  ├── Introduction to Humanoid Robotics.pdf
 │  ├── Julia for robotics.pdf
 │  ├── KIM-DISSERTATION-2017.pdf
@@ -156,6 +157,7 @@
 │  ├── Momentum-Based Control Framework.pdf
 │  ├── NimbRo-OP2X.pdf
 │  ├── notes-twan.pdf
+│  ├── Optimal-Design-of-Robotic-Character-Kinematics-Paper.pdf
 │  ├── Optimization-Based Control.pdf
 │  ├── paper_flexLoco.pdf
 │  ├── Passivity-based whole-body balancing.pdf
