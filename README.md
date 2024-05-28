@@ -43,7 +43,8 @@
 │  ├── Learn CUDA Programming.pdf
 │  ├── NVIDIA_CUDA_Programming_Guide_1.1_chs.pdf
 │  ├── Professional CUDA C Programming.pdf
-│  └── Programming in Parallel with CUDA.pdf
+│  ├── Programming in Parallel with CUDA.pdf
+│  └── Warp.pdf
 ├── CXX
 │  ├── [B] Dive Into Design Patterns.pdf
 │  ├── Advanced C and C++ Compiling.pdf
@@ -122,6 +123,7 @@
 │  ├── OC_vs_RL.pdf
 │  ├── On_Bringing_Robots_Home.pdf
 │  ├── OPT-Mimic.pdf
+│  ├── Orbit.pdf
 │  ├── Past, Present, and Future of Intelligence.pdf
 │  ├── Reinforcement Learning and Optimal Control.pdf
 │  ├── RL Bipedal Jumping Control.pdf
