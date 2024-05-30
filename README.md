@@ -34,6 +34,7 @@
 │  ├── Model of Contact Normal Force.pdf
 │  ├── Pressure Field Contact.pdf
 │  ├── SIGGRAPH22_friction_contact_notes.pdf
+│  ├── simplecontacts2024.pdf
 │  └── Velocity Level Approximation of Pressure Field Contact.pdf
 ├── CUDA
 │  ├── Automatic Sphere Approximation.pdf
