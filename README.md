@@ -138,11 +138,13 @@
 │  ├── UnderstandingDeepLearning_24_11_23_C.pdf
 │  └── What Is ChatGPT Doing.pdf
 ├── Locomotion
+│  ├── Adaptive-model.pdf
 │  ├── An Architecture for Online Affordance-based Perception and Whole-body Planning.pdf
 │  ├── ARTEMIS.pdf
 │  ├── Artemis_Hardware_Zhu.pdf
 │  ├── Artemis_Software_Ahn.pdf
 │  ├── atlas-control.pdf
+│  ├── Atlas_Step_Up_TO.pdf
 │  ├── balance control and locomotion planning.pdf
 │  ├── Bipedal Humanoid Hardware Design: A Technology Review.pdf
 │  ├── Capture Steps: Robust Walking for Humanoid Robots.pdf
@@ -245,7 +247,6 @@
 │  ├── MPOPT_presentation.pdf
 │  ├── MultipleShooting.pdf
 │  ├── nlp_slides.pdf
-│  ├── Non-Linear Trajectory Optimization Atlas.pdf
 │  ├── OpTaS.pdf
 │  ├── Optimal control theory.pdf
 │  ├── pseudospectral.pdf
