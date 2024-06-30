@@ -293,8 +293,13 @@
 │  ├── abi386-4.pdf
 │  ├── atc23-jiang-yanyan.pdf
 │  ├── Crafting Interpreters.pdf
+│  ├── High-Quality Software Engineering.pdf
 │  ├── How To Write Shared Libraries.pdf
+│  ├── Linker and Libraries Guide.pdf
 │  ├── linkers_and_loaders.pdf
+│  ├── Linux-UNIX系统编程手册（上册）.pdf
+│  ├── Linux-UNIX系统编程手册（下册）.pdf
+│  ├── Program-Library-HOWTO.pdf
 │  └── ROSCon 2017 Determinism in ROS.pdf
 ├── Physics
 │  ├── Bridging two insect flight modes.pdf
