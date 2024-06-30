@@ -35,7 +35,8 @@
 │  ├── Pressure Field Contact.pdf
 │  ├── SIGGRAPH22_friction_contact_notes.pdf
 │  ├── simplecontacts2024.pdf
-│  └── Velocity Level Approximation of Pressure Field Contact.pdf
+│  ├── Velocity Level Approximation of Pressure Field Contact.pdf
+│  └── 仿真器对比.png
 ├── CUDA
 │  ├── Automatic Sphere Approximation.pdf
 │  ├── CUDA_programming.pdf
@@ -117,6 +118,8 @@
 │  ├── DreamWaQ.pdf
 │  ├── how to train your robot.pdf
 │  ├── Humanoid-Gym.pdf
+│  ├── Humanoid Robot to Imitate Human Dances.pdf
+│  ├── HumanPlus.pdf
 │  ├── Isaac Gym.pdf
 │  ├── lbdl.pdf
 │  ├── Learning Agile Soccer Skills.pdf
@@ -130,6 +133,7 @@
 │  ├── OPT-Mimic.pdf
 │  ├── Orbit.pdf
 │  ├── Past, Present, and Future of Intelligence.pdf
+│  ├── Plan-Guided Reinforcement Learning.pdf
 │  ├── Reinforcement Learning and Optimal Control.pdf
 │  ├── RL Bipedal Jumping Control.pdf
 │  ├── RLbook2020.pdf
