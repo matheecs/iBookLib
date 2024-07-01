@@ -7,8 +7,15 @@
 │  ├── CharacterAnimation.pdf
 │  ├── Choregraphe.pdf
 │  ├── Computer Animation.pdf
+│  ├── Generating Whole Body Motions.pdf
+│  ├── Imitating Human Dance Motions.pdf
+│  ├── Learning from Observation.pdf
 │  ├── Motion Interpolation Methods.pdf
-│  └── Principles.pdf
+│  ├── Principles.pdf
+│  ├── Retargeting.pdf
+│  ├── Retargetting Motion to New Characters.pdf
+│  ├── Towards a Natural Motion Generator.pdf
+│  └── Whole-Body Geometric Retargeting for Humanoid Robots.pdf
 ├── Biographies
 │  ├── Doom Guy.epub
 │  └── Masters of Doom.pdf
@@ -151,6 +158,7 @@
 │  ├── Atlas_Step_Up_TO.pdf
 │  ├── balance control and locomotion planning.pdf
 │  ├── Bipedal Humanoid Hardware Design: A Technology Review.pdf
+│  ├── Bipedal Running.pdf
 │  ├── Capture Steps: Robust Walking for Humanoid Robots.pdf
 │  ├── CD_FK.pdf
 │  ├── Collaborative Loco-Manipulation.pdf
@@ -180,12 +188,15 @@
 │  ├── Simulating Balance Recovery.pdf
 │  ├── Software and Control Design.pdf
 │  ├── Stability of Surface Contacts.pdf
+│  ├── Teleoperation of Humanoid Robots.pdf
 │  ├── Tello Leg.pdf
 │  ├── US11465281.pdf
 │  ├── vduindamPhDthesis.pdf
 │  ├── Visualizing Movement Control Optimization.pdf
+│  ├── WBC.pdf
 │  ├── WBIC.pdf
 │  ├── WBLC.pdf
+│  ├── Wensing_IJHR_2016.pdf
 │  └── Whole-Body Control of Series-Parallel Hybrid Robots.pdf
 ├── Manipulation
 │  ├── [2020] [MIT Master] Dynamic Primitives Facilitate Manipulating a Whip.pdf
