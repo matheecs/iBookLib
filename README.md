@@ -4,12 +4,14 @@
 .
 ├── Animation
 │  ├── 3D Animation Essentials.pdf
-│  ├── CharacterAnimation.pdf
+│  ├── Acquiring Stylized Motor Skills.pdf
 │  ├── Choregraphe.pdf
 │  ├── Computer Animation.pdf
+│  ├── Games105_notes.pdf
 │  ├── Generating Whole Body Motions.pdf
 │  ├── Imitating Human Dance Motions.pdf
 │  ├── Learning from Observation.pdf
+│  ├── Motion Capture File Formats Explained.pdf
 │  ├── Motion Interpolation Methods.pdf
 │  ├── Principles.pdf
 │  ├── Retargeting.pdf
@@ -211,6 +213,7 @@
 │  ├── [B] 矩阵力量.pdf
 │  ├── Interactive Linear Algebra.pdf
 │  ├── Linear Algebra Done Right 4th.pdf
+│  ├── Mathematics for Robotics.pdf
 │  ├── Measure, Integration & Real Analysis.pdf
 │  └── The-Art-of-Linear-Algebra-zh-CN.pdf
 ├── MotionPlanning
