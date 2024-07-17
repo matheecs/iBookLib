@@ -5,6 +5,7 @@
 ├── Animation
 │  ├── 3D Animation Essentials.pdf
 │  ├── Acquiring Stylized Motor Skills.pdf
+│  ├── Bipedal Robotic Character.pdf
 │  ├── Choregraphe.pdf
 │  ├── Computer Animation.pdf
 │  ├── Games105_notes.pdf
@@ -199,7 +200,8 @@
 │  ├── WBIC.pdf
 │  ├── WBLC.pdf
 │  ├── Wensing_IJHR_2016.pdf
-│  └── Whole-Body Control of Series-Parallel Hybrid Robots.pdf
+│  ├── Whole-Body Control of Series-Parallel Hybrid Robots.pdf
+│  └── Whole-body MPC.pdf
 ├── Manipulation
 │  ├── [2020] [MIT Master] Dynamic Primitives Facilitate Manipulating a Whip.pdf
 │  ├── A Mathematical Introduction to Robotic Manipulation.pdf
