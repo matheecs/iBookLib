@@ -272,6 +272,7 @@
 │  ├── pseudospectral.pdf
 │  ├── PSOPT.pdf
 │  ├── Soft Landing Optimal Control.pdf
+│  ├── Stagewise implementation of SQP.pdf
 │  ├── trajectorySurveyAAS.pdf
 │  ├── Ungar.pdf
 │  └── 变分学讲义.pdf
