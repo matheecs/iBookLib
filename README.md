@@ -5,19 +5,24 @@
 ├── Animation
 │  ├── 3D Animation Essentials.pdf
 │  ├── Acquiring Stylized Motor Skills.pdf
+│  ├── Behavior-Based Robotics.pdf
 │  ├── Bipedal Robotic Character.pdf
 │  ├── Choregraphe.pdf
 │  ├── Computer Animation.pdf
 │  ├── Games105_notes.pdf
 │  ├── Generating Whole Body Motions.pdf
 │  ├── Imitating Human Dance Motions.pdf
+│  ├── Interaction Mesh Based Motion Adaptation.pdf
 │  ├── Learning from Observation.pdf
 │  ├── Motion Capture File Formats Explained.pdf
 │  ├── Motion Interpolation Methods.pdf
+│  ├── Optimization-based Motion Retargeting.pdf
 │  ├── Principles.pdf
 │  ├── Retargeting.pdf
 │  ├── Retargetting Motion to New Characters.pdf
+│  ├── Spatial_Relationship_Preserving_Character_Motion_Adaptation.pdf
 │  ├── Towards a Natural Motion Generator.pdf
+│  ├── Valve's Handbook.pdf
 │  └── Whole-Body Geometric Retargeting for Humanoid Robots.pdf
 ├── Biographies
 │  ├── Doom Guy.epub
