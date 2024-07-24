@@ -20,6 +20,7 @@
 │  ├── Principles.pdf
 │  ├── Retargeting.pdf
 │  ├── Retargetting Motion to New Characters.pdf
+│  ├── Robust Robot Motion Retargeting.pdf
 │  ├── Spatial_Relationship_Preserving_Character_Motion_Adaptation.pdf
 │  ├── Towards a Natural Motion Generator.pdf
 │  ├── Valve's Handbook.pdf
