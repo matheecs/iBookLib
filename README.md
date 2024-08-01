@@ -8,7 +8,9 @@
 │  ├── Behavior-Based Robotics.pdf
 │  ├── Bipedal Robotic Character.pdf
 │  ├── Choregraphe.pdf
+│  ├── Composite Control of Physically Simulated Characters.pdf
 │  ├── Computer Animation.pdf
+│  ├── Contact-aware Nonlinear Control of Dynamic Characters.pdf
 │  ├── Games105_notes.pdf
 │  ├── Generating Whole Body Motions.pdf
 │  ├── Imitating Human Dance Motions.pdf
@@ -75,6 +77,7 @@
 │  ├── C++ Initialization Story.pdf
 │  ├── C++ Today.pdf
 │  ├── improving_compilation_times.pdf
+│  ├── Many Faces of PublishSubscribe.pdf
 │  ├── Modern-CMake-for-C++-zh.pdf
 │  ├── modern-cmake.pdf
 │  ├── Modern C++ Design-zh.pdf
@@ -126,10 +129,14 @@
 │  └── Sketchpad.pdf
 ├── Grasp
 │  └── fastgraspd.pdf
+├── IK
+│  └── iksurvey.pdf
 ├── Learning
 │  ├── 16-745 Lecture 24.pdf
 │  ├── Acquiring Motor Skills.pdf
+│  ├── berkeley_humanoid.pdf
 │  ├── Champion-level drone racing.pdf
+│  ├── Continuous Control with Coarse-to-fine RL.pdf
 │  ├── Deep Tracking Control.pdf
 │  ├── DreamWaQ.pdf
 │  ├── how to train your robot.pdf
@@ -138,9 +145,12 @@
 │  ├── HumanPlus.pdf
 │  ├── Isaac Gym.pdf
 │  ├── lbdl.pdf
+│  ├── Learning_Agile_Soccer_Skills_for_a_Bipedal_Robot.pdf
 │  ├── Learning Agile Soccer Skills.pdf
 │  ├── Learning Bipedal Walking on CPU.pdf
+│  ├── Learning In-Hand Translation Using Tactile.pdf
 │  ├── Learning Locomotion Skills Using DeepRL.pdf
+│  ├── Learning to Use Chopsticks in Diverse Gripping Styles.pdf
 │  ├── Learning to Walk.pdf
 │  ├── Motor Learning.pdf
 │  ├── NIPS-2010-constructing-skill-trees-for-reinforcement-learning-agents-from-demonstration-trajectories-Paper.pdf
@@ -153,10 +163,13 @@
 │  ├── Reinforcement Learning and Optimal Control.pdf
 │  ├── RL Bipedal Jumping Control.pdf
 │  ├── RLbook2020.pdf
+│  ├── rlchina-3h-rl-tutorial.pdf
 │  ├── Sim-to-Real.pdf
+│  ├── Soccer Kicking.pdf
 │  ├── sot-torque-control.pdf
 │  ├── UnderstandingDeepLearning_24_11_23_C.pdf
-│  └── What Is ChatGPT Doing.pdf
+│  ├── What Is ChatGPT Doing.pdf
+│  └── 深度强化学习.pdf
 ├── Locomotion
 │  ├── Adaptive-model.pdf
 │  ├── An Architecture for Online Affordance-based Perception and Whole-body Planning.pdf
