@@ -131,6 +131,8 @@
 │  └── fastgraspd.pdf
 ├── IK
 │  └── iksurvey.pdf
+├── LaTeX
+│  └── lnotes2.pdf
 ├── Learning
 │  ├── 16-745 Lecture 24.pdf
 │  ├── Acquiring Motor Skills.pdf
