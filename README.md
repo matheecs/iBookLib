@@ -156,6 +156,7 @@
 │  ├── Learning Locomotion Skills Using DeepRL.pdf
 │  ├── Learning to Use Chopsticks in Diverse Gripping Styles.pdf
 │  ├── Learning to Walk.pdf
+│  ├── Model-Based Footstep Planning.pdf
 │  ├── Motor Learning.pdf
 │  ├── NIPS-2010-constructing-skill-trees-for-reinforcement-learning-agents-from-demonstration-trajectories-Paper.pdf
 │  ├── OC_vs_RL.pdf
