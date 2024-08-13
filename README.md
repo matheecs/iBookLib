@@ -162,6 +162,7 @@
 │  ├── OPT-Mimic.pdf
 │  ├── Orbit.pdf
 │  ├── Past, Present, and Future of Intelligence.pdf
+│  ├── Periodic Reward Composition.pdf
 │  ├── Plan-Guided Reinforcement Learning.pdf
 │  ├── PPO.pdf
 │  ├── Reinforcement Learning and Optimal Control.pdf
