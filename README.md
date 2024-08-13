@@ -141,6 +141,7 @@
 │  ├── Champion-level drone racing.pdf
 │  ├── Continuous Control with Coarse-to-fine RL.pdf
 │  ├── Deep Tracking Control.pdf
+│  ├── Domain Randomization.pdf
 │  ├── DreamWaQ.pdf
 │  ├── how to train your robot.pdf
 │  ├── Humanoid-Gym.pdf
