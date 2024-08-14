@@ -175,6 +175,7 @@
 │  ├── Soccer Kicking.pdf
 │  ├── sot-torque-control.pdf
 │  ├── UnderstandingDeepLearning_24_11_23_C.pdf
+│  ├── Visualizing Movement Control Optimization.pdf
 │  ├── What Is ChatGPT Doing.pdf
 │  └── 深度强化学习.pdf
 ├── Locomotion
@@ -221,7 +222,6 @@
 │  ├── Tello Leg.pdf
 │  ├── US11465281.pdf
 │  ├── vduindamPhDthesis.pdf
-│  ├── Visualizing Movement Control Optimization.pdf
 │  ├── WBC.pdf
 │  ├── WBIC.pdf
 │  ├── WBLC.pdf
