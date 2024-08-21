@@ -140,9 +140,12 @@
 │  ├── berkeley_humanoid.pdf
 │  ├── Champion-level drone racing.pdf
 │  ├── Continuous Control with Coarse-to-fine RL.pdf
+│  ├── CusADi.pdf
+│  ├── DeepMimic_2018.pdf
 │  ├── Deep Tracking Control.pdf
 │  ├── Domain Randomization.pdf
 │  ├── DreamWaQ.pdf
+│  ├── DTC.pdf
 │  ├── how to train your robot.pdf
 │  ├── Humanoid-Gym.pdf
 │  ├── Humanoid Robot to Imitate Human Dances.pdf
@@ -176,6 +179,7 @@
 │  ├── sot-torque-control.pdf
 │  ├── UnderstandingDeepLearning_24_11_23_C.pdf
 │  ├── Visualizing Movement Control Optimization.pdf
+│  ├── VMP.pdf
 │  ├── What Is ChatGPT Doing.pdf
 │  └── 深度强化学习.pdf
 ├── Locomotion
