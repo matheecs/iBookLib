@@ -121,6 +121,8 @@
 ├── EE
 │  ├── ndss2023_f217_paper.pdf
 │  └── Open Circuits.pdf
+├── Game
+│  └── Fabien Sanglard - Game Engine Black Book_ Wolfenstein 3D.pdf
 ├── gen_readme.sh
 ├── Graphics
 │  ├── A Biography of the Pixel.pdf
@@ -153,6 +155,7 @@
 │  ├── Isaac Gym.pdf
 │  ├── lbdl.pdf
 │  ├── Learning_Agile_Soccer_Skills_for_a_Bipedal_Robot.pdf
+│  ├── Learning agile and dynamic motor skills for legged robots.pdf
 │  ├── Learning Agile Soccer Skills.pdf
 │  ├── Learning Bipedal Walking on CPU.pdf
 │  ├── Learning In-Hand Translation Using Tactile.pdf
