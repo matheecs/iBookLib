@@ -18,6 +18,7 @@
 │  ├── Learning from Observation.pdf
 │  ├── Motion Capture File Formats Explained.pdf
 │  ├── Motion Interpolation Methods.pdf
+│  ├── MVN_white_paper.pdf
 │  ├── Optimization-based Motion Retargeting.pdf
 │  ├── Principles.pdf
 │  ├── Retargeting.pdf
@@ -97,6 +98,7 @@
 │  ├── Foundations of physically based modeling and animation.pdf
 │  ├── Geometric Fundamentals of Robotics.pdf
 │  ├── holonomy-and-nonholonomy-in-the-dynamics-of-articulated-motion.pdf
+│  ├── Intrinsic sense of touch.pdf
 │  ├── jnrh_collision_detection.pdf
 │  ├── Kalman Filtering, Smoothing & FD:ID.pdf
 │  ├── Kinematic Loops.pdf
@@ -165,6 +167,7 @@
 │  ├── Learning to Walk.pdf
 │  ├── Model-Based Footstep Planning.pdf
 │  ├── Motor Learning.pdf
+│  ├── MPC_IFAC Lecture.pdf
 │  ├── NIPS-2010-constructing-skill-trees-for-reinforcement-learning-agents-from-demonstration-trajectories-Paper.pdf
 │  ├── OC_vs_RL.pdf
 │  ├── On_Bringing_Robots_Home.pdf
@@ -257,6 +260,7 @@
 │  ├── Dynamic Robot Manipulation_v1.pdf
 │  ├── Dynamic Robot Manipulation_v2.pdf
 │  ├── Motion Planning the Essentials.pdf
+│  ├── RAPTOR.pdf
 │  ├── Skaterbots.pdf
 │  └── 几何方法.pdf
 ├── Motor
