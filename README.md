@@ -25,6 +25,7 @@
 │  ├── Retargetting Motion to New Characters.pdf
 │  ├── Robust Robot Motion Retargeting.pdf
 │  ├── Spatial_Relationship_Preserving_Character_Motion_Adaptation.pdf
+│  ├── Teleoperation of Humanoid Robots.pdf
 │  ├── Towards a Natural Motion Generator.pdf
 │  ├── Valve's Handbook.pdf
 │  └── Whole-Body Geometric Retargeting for Humanoid Robots.pdf
