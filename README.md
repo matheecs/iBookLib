@@ -78,9 +78,11 @@
 │  ├── C++ Best Practices.pdf
 │  ├── C++ Initialization Story.pdf
 │  ├── C++ Today.pdf
+│  ├── Clang Compiler Frontend.pdf
 │  ├── improving_compilation_times.pdf
+│  ├── Learn LLVM 17.pdf
 │  ├── Many Faces of PublishSubscribe.pdf
-│  ├── Modern-CMake-for-C++-zh.pdf
+│  ├── Modern-CMake-for-C++-2ed-zh-20240908.pdf
 │  ├── modern-cmake.pdf
 │  ├── Modern C++ Design-zh.pdf
 │  ├── Modern C++ Design.pdf
@@ -294,6 +296,7 @@
 │  ├── Contact-Implicit Trajectory Optimization.pdf
 │  ├── cuRobo.pdf
 │  ├── cvoc.pdf
+│  ├── Efficient Trajectory Optimization for Robot Motion Planning.pdf
 │  ├── Geometric Algebra for Optimal Control.pdf
 │  ├── geometric control of mechanical systems.pdf
 │  ├── GPOPS-Ⅱ.pdf
