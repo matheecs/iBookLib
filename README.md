@@ -18,6 +18,7 @@
 │  ├── Learning from Observation.pdf
 │  ├── Motion Capture File Formats Explained.pdf
 │  ├── Motion Interpolation Methods.pdf
+│  ├── Motion Retargeting for Humanoid Robots.pdf
 │  ├── MVN_white_paper.pdf
 │  ├── Optimization-based Motion Retargeting.pdf
 │  ├── Principles.pdf
@@ -37,6 +38,7 @@
 │  ├── Articulated Rigid Body.pdf
 │  ├── Contact and Constraints.pdf
 │  ├── Convex Quasistatic.pdf
+│  ├── DifferentiableCollisions.pdf
 │  ├── drake
 │  │  ├── Deformable.pdf
 │  │  ├── MPM.pdf
@@ -306,6 +308,8 @@
 │  ├── Kelly2016.pdf
 │  ├── Linear System Theory and Design.pdf
 │  ├── MathOptInterface.pdf
+│  ├── mbd_paper.pdf
+│  ├── mbd_slides.pdf
 │  ├── MPC-book-2nd.pdf
 │  ├── MPOPT_presentation.pdf
 │  ├── MultipleShooting.pdf
@@ -325,6 +329,7 @@
 │  ├── A survey of HPC for NLP.pdf
 │  ├── convex_optimization.pdf
 │  ├── cuPDLP.jl.pdf
+│  ├── Differentiable QP.pdf
 │  ├── End-to-End Learning to Warm-Start.pdf
 │  ├── First-Order Methods in Optimization.pdf
 │  ├── Getting Started With IPOPT.pdf
@@ -350,6 +355,7 @@
 │  ├── Practical Optimization.pdf
 │  ├── Recent Advances in the OSQP.pdf
 │  ├── SNOPT.pdf
+│  ├── uno.pdf
 │  ├── 无导数优化方法的研究.pdf
 │  ├── 最优化-2.pdf
 │  └── 瞎子爬山与最优化方法.pdf
