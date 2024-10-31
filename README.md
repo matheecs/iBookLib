@@ -33,6 +33,8 @@
 ├── Biographies
 │  ├── Doom Guy.epub
 │  └── Masters of Doom.pdf
+├── Bionics
+│  └── Detection-and-Learning-of-Floral-Electric-Fields-by-Bumblebees.pdf
 ├── Contact
 │  ├── An Introduction to Physics-based Animation.pdf
 │  ├── Articulated Rigid Body.pdf
@@ -256,6 +258,7 @@
 │  └── 机器人操作的数学导论.pdf
 ├── Math
 │  ├── [B] 矩阵力量.pdf
+│  ├── Companion to Mathematics.pdf
 │  ├── Interactive Linear Algebra.pdf
 │  ├── Linear Algebra Done Right 4th.pdf
 │  ├── Mathematics for Robotics.pdf
@@ -268,6 +271,8 @@
 │  ├── RAPTOR.pdf
 │  ├── Running Jumps Over Obstacles.pdf
 │  ├── Skaterbots.pdf
+│  ├── Task_sequencer_integrated_into_a_teleoperation_interface_for_biped_humanoid_robots.pdf
+│  ├── Toward_Industrialization_of_Humanoid_Robots_Autonomous_Plasterboard_Installation_to_Improve_Safety_and_Efficiency.pdf
 │  └── 几何方法.pdf
 ├── Motor
 │  ├── High-Output Actuation System.pdf
