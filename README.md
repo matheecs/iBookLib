@@ -11,6 +11,7 @@
 │  ├── Composite Control of Physically Simulated Characters.pdf
 │  ├── Computer Animation.pdf
 │  ├── Contact-aware Nonlinear Control of Dynamic Characters.pdf
+│  ├── Factorized-Motion-Diffusion-for-Precise-and-Character-Agnostic-Motion-Inbetweening-Paper.pdf
 │  ├── Games105_notes.pdf
 │  ├── Generating Whole Body Motions.pdf
 │  ├── Imitating Human Dance Motions.pdf
@@ -25,6 +26,7 @@
 │  ├── Retargeting.pdf
 │  ├── Retargetting Motion to New Characters.pdf
 │  ├── Robust Robot Motion Retargeting.pdf
+│  ├── Skel-inbetweening-for-Intuitive-Neural-Motion-Authoring-paper.pdf
 │  ├── Spatial_Relationship_Preserving_Character_Motion_Adaptation.pdf
 │  ├── Teleoperation of Humanoid Robots.pdf
 │  ├── Towards a Natural Motion Generator.pdf
@@ -213,6 +215,7 @@
 │  ├── Differentiable Optimal Control.pdf
 │  ├── Dynamic Loco-manipulation on HECTOR.pdf
 │  ├── Free Gait.pdf
+│  ├── From centroidal to whole-body models.pdf
 │  ├── HardwareRPC.pdf
 │  ├── HECTOR.pdf
 │  ├── Interactive_Design_of_Stylized_Walking_Gaits_for_Robotic_Characters-4.pdf
@@ -265,6 +268,7 @@
 │  ├── Measure, Integration & Real Analysis.pdf
 │  └── The-Art-of-Linear-Algebra-zh-CN.pdf
 ├── MotionPlanning
+│  ├── A Behavior Architecture for Fast Humanoid Robot Door Traversals.pdf
 │  ├── Dynamic Robot Manipulation_v1.pdf
 │  ├── Dynamic Robot Manipulation_v2.pdf
 │  ├── Motion Planning the Essentials.pdf
@@ -277,7 +281,9 @@
 ├── Motor
 │  ├── High-Output Actuation System.pdf
 │  ├── High Torque and High Speed Leg Module.pdf
-│  └── thermal control.pdf
+│  ├── thermal control.pdf
+│  ├── 并联机构的运动学误差建模及参数可辨识性分析_孔令雨.pdf
+│  └── 机器人与环境间力_位置控制技术研究与应用_李正义.pdf
 ├── Numerics
 │  ├── [B] Evaluating Derivatives.pdf
 │  ├── [B] Matrix Computations.pdf
