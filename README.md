@@ -132,6 +132,9 @@
 ├── EE
 │  ├── ndss2023_f217_paper.pdf
 │  └── Open Circuits.pdf
+├── FlappingWing
+│  ├── Enforcing_nonholonomic_constraints_in_Aerobat.pdf
+│  └── Learning-based Trajectory Tracking.pdf
 ├── Game
 │  └── Fabien Sanglard - Game Engine Black Book_ Wolfenstein 3D.pdf
 ├── gen_readme.sh
@@ -389,7 +392,8 @@
 │  ├── Effective Computation in Physics.pdf
 │  ├── Fly by Night Physics.pdf
 │  ├── IPC.pdf
-│  └── UniversityPhysics.pdf
+│  ├── UniversityPhysics.pdf
+│  └── 定性与半定量物理学.pdf
 ├── Python
 │  ├── composing_programs.pdf
 │  ├── High Performance Python.pdf
