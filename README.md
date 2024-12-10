@@ -2,6 +2,12 @@
 
 ```text
 .
+├── AIBO
+│  ├── AIBO_Toward the Era of Digital Creatures.pdf
+│  ├── AIBO_US6560511.pdf
+│  ├── An_ethological_and_emotional_basis_for_ human_robot_interaction.pdf
+│  ├── Development_of_an_Autonomous_Quadruped_Robot_for_Robot_Entertainment.pdf
+│  └── Stories of QRIO and PINO, and Beyond.pdf
 ├── Animation
 │  ├── 3D Animation Essentials.pdf
 │  ├── Acquiring Stylized Motor Skills.pdf
