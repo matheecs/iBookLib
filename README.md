@@ -327,6 +327,7 @@
 │  ├── Joris Gillis.pdf
 │  ├── JuMP.pdf
 │  ├── Kelly2016.pdf
+│  ├── ktracy_phd_robotics_2024.pdf
 │  ├── Linear System Theory and Design.pdf
 │  ├── MathOptInterface.pdf
 │  ├── mbd_paper.pdf
