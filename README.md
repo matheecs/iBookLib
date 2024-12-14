@@ -6,6 +6,7 @@
 │  ├── AIBO_Toward the Era of Digital Creatures.pdf
 │  ├── AIBO_US6560511.pdf
 │  ├── An_ethological_and_emotional_basis_for_ human_robot_interaction.pdf
+│  ├── asimoTechnicalInformation.pdf
 │  ├── Development_of_an_Autonomous_Quadruped_Robot_for_Robot_Entertainment.pdf
 │  └── Stories of QRIO and PINO, and Beyond.pdf
 ├── Animation
@@ -48,6 +49,7 @@
 │  ├── Articulated Rigid Body.pdf
 │  ├── Contact and Constraints.pdf
 │  ├── Convex Quasistatic.pdf
+│  ├── Differentiable Collision Detection.pdf
 │  ├── DifferentiableCollisions.pdf
 │  ├── drake
 │  │  ├── Deformable.pdf
@@ -244,6 +246,7 @@
 │  ├── Passivity-based whole-body balancing.pdf
 │  ├── Perceptive_Locomotion_through_NMPC.pdf
 │  ├── Push Recovery Control.pdf
+│  ├── schaft2.pdf
 │  ├── Series-Parallel Hybrid.pdf
 │  ├── Simulating Balance Recovery.pdf
 │  ├── Software and Control Design.pdf
