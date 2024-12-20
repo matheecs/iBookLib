@@ -417,6 +417,8 @@
 │  ├── python3-note.pdf
 │  └── PythonMastery.pdf
 ├── README.md
+├── SO3
+│  └── Effective Sampling and Distance Metrics for 3D Rigid Body Path Planning.pdf
 ├── StateEstimation
 │  ├── foot_imu_iros2023.pdf
 │  ├── Localization Visual Odometry NASA.pdf
