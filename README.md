@@ -142,7 +142,9 @@
 │  └── Open Circuits.pdf
 ├── FlappingWing
 │  ├── Enforcing_nonholonomic_constraints_in_Aerobat.pdf
-│  └── Learning-based Trajectory Tracking.pdf
+│  ├── insectothopter-cia1.pdf
+│  ├── Learning-based Trajectory Tracking.pdf
+│  └── simulation of realistic fruit fly locomotion.pdf
 ├── Game
 │  └── Fabien Sanglard - Game Engine Black Book_ Wolfenstein 3D.pdf
 ├── gen_readme.sh
