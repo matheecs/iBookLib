@@ -286,6 +286,7 @@
 │  ├── Dynamic Robot Manipulation_v1.pdf
 │  ├── Dynamic Robot Manipulation_v2.pdf
 │  ├── Motion Planning the Essentials.pdf
+│  ├── planning_with_attitude.pdf
 │  ├── RAPTOR.pdf
 │  ├── Running Jumps Over Obstacles.pdf
 │  ├── Skaterbots.pdf
