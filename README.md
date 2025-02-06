@@ -203,9 +203,11 @@
 │  ├── RL Bipedal Jumping Control.pdf
 │  ├── RLbook2020.pdf
 │  ├── rlchina-3h-rl-tutorial.pdf
+│  ├── RL Mathematical Foundations.pdf
 │  ├── Sim-to-Real.pdf
 │  ├── Soccer Kicking.pdf
 │  ├── sot-torque-control.pdf
+│  ├── Stochastic Approximation and Its Application.pdf
 │  ├── UnderstandingDeepLearning_24_11_23_C.pdf
 │  ├── Visualizing Movement Control Optimization.pdf
 │  ├── VMP.pdf
