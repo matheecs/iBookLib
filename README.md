@@ -46,6 +46,7 @@
 │   └── Detection-and-Learning-of-Floral-Electric-Fields-by-Bumblebees.pdf
 ├── Contact
 │   ├── An Introduction to Physics-based Animation.pdf
+│   ├── ArchitectingJoltPhysics.pdf
 │   ├── Articulated Rigid Body.pdf
 │   ├── Contact and Constraints.pdf
 │   ├── Convex Quasistatic.pdf
@@ -62,10 +63,13 @@
 │   ├── ErinCatto_UnderstandingConstraints_GDC2014.pdf
 │   ├── ErwinCoumans_GPU_rigid_body_simulation_GDC2013.pdf
 │   ├── Fluid Engine Development.pdf
+│   ├── GDC09_ErinCatto_Solver.pdf
 │   ├── Implicit Time-Stepping Scheme.pdf
 │   ├── LCP.pdf
 │   ├── Minchen Li dissertation.pdf
 │   ├── Model of Contact Normal Force.pdf
+│   ├── PhysicsBasedAnimation.pdf
+│   ├── Practical_Rigid_Body_Physics_for_Game.pdf
 │   ├── Pressure Field Contact.pdf
 │   ├── SIGGRAPH22_friction_contact_notes.pdf
 │   ├── simplecontacts2024.pdf
