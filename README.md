@@ -13,6 +13,7 @@
 │   ├── 3D Animation Essentials.pdf
 │   ├── Acquiring Stylized Motor Skills.pdf
 │   ├── Behavior-Based Robotics.pdf
+│   ├── biom.pdf
 │   ├── Bipedal Robotic Character.pdf
 │   ├── Choregraphe.pdf
 │   ├── Composite Control of Physically Simulated Characters.pdf
